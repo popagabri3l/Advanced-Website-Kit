@@ -1,0 +1,187 @@
+{
+  "sections": [
+    {
+      "name": "Breakfast",
+      "description": "Begin your day with a delightful selection of morning classics, crafted to fuel your day ahead.",
+      "items": [
+        {
+          "name": "Classic American Breakfast",
+          "description": "A hearty combo of scrambled eggs, crispy bacon, golden hash browns, and toast.",
+          "price": 11.99
+        },
+        {
+          "name": "Pancakes and Syrup",
+          "description": "Fluffy pancakes with a sweet maple syrup drizzle and a dollop of butter.",
+          "price": 9.99
+        },
+        {
+          "name": "Eggs Benedict",
+          "description": "Poached eggs on an English muffin, topped with Canadian bacon and velvety hollandaise sauce.",
+          "price": 14.99
+        },
+        {
+          "name": "Breakfast Burrito",
+          "description": "A tortilla stuffed with scrambled eggs, choice of sausage or bacon, cheese, and zesty salsa.",
+          "price": 12.99
+        },
+        {
+          "name": "Belgian Waffles",
+          "description": "Thick, crispy waffles crowned with fresh berries and whipped cream.",
+          "price": 11.99
+        },
+        {
+          "name": "Omelette",
+          "description": "Create your own with cheese, mushrooms, peppers, onions, and more.",
+          "price": 13.99
+        },
+        {
+          "name": "French Toast",
+          "description": "Grilled bread soaked in a sweet egg mixture, dusted with sugar, and served with syrup.",
+          "price": 11.19
+        },
+        {
+          "name": "Avocado Toast",
+          "description": "Toasted bread layered with creamy mashed avocado, poached eggs, and a touch of seasoning.",
+          "price": 9.79
+        },
+        {
+          "name": "Breakfast Sandwich",
+          "description": "Your choice of eggs, bacon or sausage, sandwiched between a roll or English muffin.",
+          "price": 8.39
+        },
+        {
+          "name": "Veggie Breakfast Bowl",
+          "description": "Sautéed veggies, quinoa or rice, topped with a poached egg and avocado.",
+          "price": 11.99
+        },
+        {
+          "name": "Greek Yogurt Parfait",
+          "description": "Layers of Greek yogurt, crunchy granola, and fresh berries drizzled with honey.",
+          "price": 9.19
+        }
+      ]
+    },
+    {
+      "name": "Lunch",
+      "description": "Discover a world of tastes with our lunchtime favourites, each dish designed to satisfy your cravings and elevate your lunch experience.",
+      "items": [
+        {
+          "name": "Classic Cheeseburger",
+          "description": "A juicy beef patty topped with melted cheese, lettuce, tomato, and pickles in a soft bun.",
+          "price": 12.99
+        },
+        {
+          "name": "Caesar Salad",
+          "description": "Crisp romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
+          "price": 9.99
+        },
+        {
+          "name": "BLT Sandwich",
+          "description": "Crispy bacon, lettuce, and tomato on toasted bread with mayo.",
+          "price": 10.49
+        },
+        {
+          "name": "Chicken Club Wrap",
+          "description": "Grilled chicken, bacon, lettuce, tomato, and ranch dressing wrapped in a tortilla.",
+          "price": 11.49
+        },
+        {
+          "name": "Vegetarian Pizza",
+          "description": "Thin crust pizza with a medley of fresh veggies and mozzarella cheese.",
+          "price": 14.99
+        },
+        {
+          "name": "Spaghetti Bolognese",
+          "description": "Tender pasta topped with rich, meaty Bolognese sauce and grated Parmesan.",
+          "price": 13.99
+        },
+        {
+          "name": "BBQ Pulled Pork Sandwich",
+          "description": "Slow-cooked pulled pork smothered in barbecue sauce on a toasted bun.",
+          "price": 12.79
+        },
+        {
+          "name": "Grilled Cheese & Tomato Soup",
+          "description": "Melted cheese between slices of grilled bread, served with a side of tomato soup.",
+          "price": 9.99
+        },
+        {
+          "name": "Cobb Salad",
+          "description": "Chopped lettuce, grilled chicken, bacon, avocado, eggs, and blue cheese dressing.",
+          "price": 11.99
+        },
+        {
+          "name": "Vegetable Stir-Fry",
+          "description": "A medley of fresh vegetables stir-fried with tofu in a savory sauce, served over rice.",
+          "price": 12.49
+        },
+        {
+          "name": "Shrimp Tacos",
+          "description": "Grilled shrimp, cabbage slaw, and chipotle mayo in soft tortillas, served with lime wedges.",
+          "price": 13.49
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "description": "Indulge in the epitome of culinary excellence under the stars with our exquisite dinner offerings, where every bite is an experience worth savoring.",
+      "items": [
+        {
+          "name": "Grilled Ribeye Steak",
+          "description": "A tender and juicy ribeye steak grilled to perfection, served with garlic mashed potatoes and sautéed vegetables.",
+          "price": 24.99
+        },
+        {
+          "name": "Salmon with Lemon-Dill Sauce",
+          "description": "Fresh salmon fillet drizzled with lemon-dill sauce, accompanied by wild rice and steamed asparagus.",
+          "price": 19.99
+        },
+        {
+          "name": "Chicken Alfredo Pasta",
+          "description": "Creamy Alfredo sauce tossed with fettuccine pasta and grilled chicken, garnished with parsley.",
+          "price": 18.49
+        },
+        {
+          "name": "Vegetable Lasagna",
+          "description": "Layers of pasta, ricotta cheese, spinach, and marinara sauce, baked to perfection.",
+          "price": 16.99
+        },
+        {
+          "name": "Bacon-Wrapped Scallops",
+          "description": "Plump scallops wrapped in crispy bacon, served with a lemon-butter sauce and rice pilaf.",
+          "price": 22.99
+        },
+        {
+          "name": "Mushroom Risotto",
+          "description": "Creamy risotto infused with wild mushrooms, Parmesan cheese, and fresh herbs.",
+          "price": 17.99
+        },
+        {
+          "name": "BBQ Ribs Platter",
+          "description": "Fall-off-the-bone BBQ ribs served with coleslaw, cornbread, and seasoned fries.",
+          "price": 21.79
+        },
+        {
+          "name": "Lobster Tail with Garlic Butter",
+          "description": "Lobster tail brushed with garlic butter, paired with mashed sweet potatoes and grilled asparagus.",
+          "price": 29.99
+        },
+        {
+          "name": "Eggplant Parmesan",
+          "description": "Slices of eggplant breaded and baked, topped with marinara sauce and melted mozzarella cheese, served with spaghetti.",
+          "price": 16.49
+        },
+        {
+          "name": "Beef Tacos",
+          "description": "Seasoned ground beef, lettuce, cheese, and salsa in soft tortillas, served with rice and beans.",
+          "price": 17.49
+        },
+        {
+          "name": "Vegetarian Stir-Fry",
+          "description": "A mix of fresh vegetables stir-fried in a savory sauce, served over steamed jasmine rice.",
+          "price": 15.99
+        }
+      ]
+    }
+  ]
+}
